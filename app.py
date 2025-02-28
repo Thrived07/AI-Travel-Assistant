@@ -5,7 +5,7 @@ from langchain_google_genai import GoogleGenerativeAI
 from langchain.schema.runnable import RunnablePassthrough
 
 # ✅ Set Up API Key
-os.environ["GOOGLE_API_KEY"] = "AIzaSyB88WLaqt1Rx99PnEezawSwO8J11o2JBI8"
+os.environ["GOOGLE_API_KEY"] = "Your-API-KEY"
 
 # ✅ Initialize LangChain Model
 llm = GoogleGenerativeAI(model="gemini-1.5-pro", google_api_key=os.environ["GOOGLE_API_KEY"])
