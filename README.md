@@ -30,7 +30,7 @@ Google Gemini AI (for AI-powered recommendations)
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/ai-travel-assistant.git
+git clone https://github.com/Thrived07/ai-travel-assistant.git
 cd ai-travel-assistant
 
 2️⃣ Install Dependencies
